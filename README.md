@@ -1,4 +1,4 @@
-# three_betting_odds_visualisations
+# Four betting odds visualisations
 A graphical exploration of the predictiveness of betting odds of the results of football matches. 
 
 The worksbook that uses three distinct graphical visualisations of football betting odds, and discovers an insight about potential distortions in the betting market.
