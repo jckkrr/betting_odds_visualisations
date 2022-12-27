@@ -1,4 +1,4 @@
-# Four betting odds visualisations
+# Football betting odds visualisations
 A graphical exploration of football betting odds, in order to see their predictiveness and discover insights into betting market inefficiencies.
 
 The worksbook that uses four distinct graphical visualisations of football betting odds, from the 2019-20 German Bundesliga season, and discovers an insight about potential distortions in the betting market.
