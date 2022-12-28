@@ -31,7 +31,7 @@ Adapting this graph to look at results and odds per matchday, to see if the bett
 
 In fact, the ROI on away wins can get as high as 40% if only bets were restricted to only matches in the second half of the season. This would reduce the pool of games available to bet on, though increase the likelihood of winning (again, this is based on just one season of data).
 
-![image](https://user-images.githubusercontent.com/69304112/209743515-eafc4b85-a8d9-48e1-a36f-d8510bf811d2.png)
+![image](https://user-images.githubusercontent.com/69304112/209743774-f1f7f462-b7cc-40b7-aefc-6c3f6aababaf.png)
 
 The bar script was also adapted to look at the distribution of result types over the season. It produced a nice-looking chart though no discernible pattern emerged from it.
 
